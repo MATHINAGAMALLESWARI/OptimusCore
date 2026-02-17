@@ -7,16 +7,17 @@ description: Generate detailed manual test cases in CSV format for the given use
  
 ## Input Requirements
  
-**User Story File Path:** Prompt user to provide the file path at runtime
-- Example: `/workspaces/MathiNagaMalleswari/1_Base_Repo/User_Story`
+**User Story File Path:** /workspaces/OptimusCore/1_Base_Repo/User_Story/US_003.md
+ Prompt user to provide the file path at runtime
+- Example: 
 
 - The prompt will ask: "Please provide the User Story file path:"
  
-**Template Reference:** `C:\Users\LAVANYA.CHITTAJALLU\copilot\OptimusCore\1_Base_Repo\Template\Template.md`
+**Template Reference:** /workspaces/OptimusCore/1_Base_Repo/Template/Template.md
 
-**Navigation Steps Reference:** `C:\Users\LAVANYA.CHITTAJALLU\copilot\OptimusCore\1_Base_Repo\Reference\navigation_steps.md`
+**Navigation Steps Reference:** /workspaces/OptimusCore/1_Base_Repo/Reference/navigation_steps
 
-**Output Location:** `C:\Users\LAVANYA.CHITTAJALLU\copilot\OptimusCore\4_Design_Studio\{filename}_TestCases.csv`
+**Output Location:** /workspaces/OptimusCore/4_Design_Studio/FinalOutput.md
 
 - The prompt will ask: "Please provide the Output Location file path:"
 

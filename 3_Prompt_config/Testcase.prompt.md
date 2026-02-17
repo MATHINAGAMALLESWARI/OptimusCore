@@ -17,7 +17,7 @@ description: Generate detailed manual test cases in CSV format for the given use
 
 **Navigation Steps Reference:** /workspaces/OptimusCore/1_Base_Repo/Reference/navigation_steps
 
-**Output Location:** /workspaces/OptimusCore/4_Design_Studio/FinalOutput.md
+**Output Location:** MATHINAGAMALLESWARI/OptimusCore
 
 - The prompt will ask: "Please provide the Output Location file path:"
 

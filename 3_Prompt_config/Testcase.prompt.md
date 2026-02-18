@@ -15,9 +15,9 @@ description: Generate detailed manual test cases in CSV format for the given use
  
 **Template Reference:** /workspaces/OptimusCore/1_Base_Repo/Template/Template.md
 
-**Navigation Steps Reference:** /workspaces/OptimusCore/1_Base_Repo/Reference/navigation_steps
+**Navigation Steps Reference:** /workspaces/OptimusCore/1_Base_Repo/Reference/navigation_steps.md
 
-**Output Location:** MATHINAGAMALLESWARI/OptimusCore
+**Output Location:** /workspaces/OptimusCore/4_Design_Studio/{filename}_testcases.csv
 
 - The prompt will ask: "Please provide the Output Location file path:"
 
@@ -63,7 +63,6 @@ For each scenario **explicitly mentioned in the user story**, generate **exactly
 - Expected Result: First expected result (numbered as "1. ")
 - Test Repository Path: Full path to test repository
 - Status: Done / In Progress / Not Started
-- Components: Middle Market
 - User Story: User Story ID
 - Priority: High / Medium / Low
 - Scenario Type: Positive / Negative
